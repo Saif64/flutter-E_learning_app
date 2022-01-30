@@ -1,6 +1,6 @@
 # e_learning
 
-A E learning app UI
+An E learning app UI
 
 ## Getting Started
 
